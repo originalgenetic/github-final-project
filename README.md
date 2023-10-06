@@ -1,8 +1,7 @@
 # github-final-project
 <DOCTYPE HTML>
   <head>
-    <title>A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-    </title>
+    A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
   </head>
 <body>
   Input:
